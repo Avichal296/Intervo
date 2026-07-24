@@ -1,6 +1,6 @@
-## AI Interviewer
+##. Intervo
 
-# 🚀 AI Interviewer
+# 🚀 Intervo
 
 A modern AI-powered interview platform designed to simulate real-world technical interviews through conversational AI, intelligent evaluation, resume-aware questioning, and real-time interaction.
 
@@ -60,7 +60,7 @@ The platform enables candidates to practice interviews, receive detailed AI-gene
 # 🏗 Monorepo Structure
 
 ```
-AI-Interviewer/
+Intervo/
 │
 ├── apps/
 │   │
@@ -164,9 +164,9 @@ AI-Interviewer/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/Avichal296/AI-Interviewer.git
+git clone https://github.com/Avichal296/Intervo.git
 
-cd AI-Interviewer
+cd Intervo 
 ```
 
 ## Install Dependencies
@@ -228,7 +228,7 @@ bun dev
 
 ---
 
-# 📌 Why AI Interviewer?
+# 📌 Why Intervo?
 
 - Production-ready Monorepo Architecture
 - Modern React Frontend
@@ -253,6 +253,7 @@ bun dev
 - Calendar Integration
 - Multi-language Support
 - Advanced Candidate Analytics
+- 
 
 ---
 
